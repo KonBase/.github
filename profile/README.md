@@ -1,4 +1,4 @@
-# 🌟 Welcome to the KonBase: Supply Chain Management for Conventions! 🌟
+![KonBase: Supply Chain Management for Conventions](../profile/1.svg)
 
 KonBase is an **open-source platform** designed to help convention organizers and associations manage their inventory, staff, and event logistics. Our mission is to provide a transparent, community-driven solution for real-world problems faced by clubs, fan groups, and event teams.
 
