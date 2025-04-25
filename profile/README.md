@@ -54,7 +54,7 @@ We welcome all contributions—code, documentation, testing, or just sharing you
 
 ## 📜 License
 
-KonBase is licensed under the [MIT License](../LICENSE.md).
+KonBase is licensed under the [MIT License](./LICENSE.md).
 
 ---
 
