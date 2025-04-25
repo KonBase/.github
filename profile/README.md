@@ -20,9 +20,9 @@ KonBase is an **open-source platform** designed to help convention organizers an
 
 We believe in open collaboration and learning together. Whether you're an organizer, developer, or just curious, you are welcome here!
 
-- **Discord:** [Join our Discord server](https://discord.gg/konbase) for support, feature discussions, and community chat.
-- **GitHub Issues:** [Report bugs or request features](https://github.com/ShiroLuxferre/KonBase/issues).
-- **Discussions:** [Share ideas and feedback](https://github.com/ShiroLuxferre/KonBase/discussions).
+- **Discord:** [Join our Discord server](https://discord.gg/wt6JYqBRzU) for support, feature discussions, and community chat.
+- **GitHub Issues:** [Report bugs or request features](https://github.com/KonBase/konbase/issues).
+- **Discussions:** [Share ideas and feedback](https://github.com/KonBase/konbase/discussions).
 
 ---
 
@@ -39,7 +39,7 @@ Your support helps us cover hosting costs and motivates us to keep improving the
 
 ## 🤝 Contributing
 
-We welcome all contributions—code, documentation, testing, or just sharing your experience. Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for how to get started.
+We welcome all contributions—code, documentation, testing, or just sharing your experience. Check out our [CONTRIBUTING.md](https://github.com/KonBase/konbase/CONTRIBUTING.md) for how to get started.
 
 ---
 
@@ -54,7 +54,7 @@ We welcome all contributions—code, documentation, testing, or just sharing you
 
 ## 📜 License
 
-KonBase is licensed under the [MIT License](./LICENSE.md).
+KonBase is licensed under the [MIT License](../LICENSE.md).
 
 ---
 
